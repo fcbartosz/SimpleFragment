@@ -1,0 +1,14 @@
+Dear Mr Yurov
+
+I am writing in connection with your Unity3d package Berry Match-Three. Our company - LGBS Poland - bought it on AssetStore a few months ago. 
+I would like to thank you for this great stuff. Unfortunately, we have one problem with this package. We built .apk file and installed it on diffrent kind of mobile phone with Android software. 
+When we start any level, the game's FPS is low. This is happening while levels are loading and sometimes during the game.
+I would appreciate it if you could give me some informations about this problem. I hope that you would like to help us fix it.
+
+I am looking forward to hearing from you soon.
+
+Yours sincerely,
+Bartosz Bañczyk
+
+
+
